@@ -1,6 +1,6 @@
 # Retinex-based Exposure Control Using Unsupervised Learning
 
-ECCV 2024 paper#9482
+paper#9482
 
 ## Introduction
 
